@@ -1,0 +1,655 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The voyce of him that is escaped from Babylon Reasons given forth to all sober minded people, why I departed from the ministry of those called ministers of parishes; and why I departed from the ministry of those called Anabaptists; and why I have, and what I have contended for, some years past.</title>
+            <author>West, Robert, b. ca. 1613.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65478</idno>
+            <idno type="STC">Wing W1391</idno>
+            <idno type="STC">ESTC R217331</idno>
+            <idno type="EEBO-CITATION">99829008</idno>
+            <idno type="PROQUEST">99829008</idno>
+            <idno type="VID">33443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65478)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1860:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The voyce of him that is escaped from Babylon Reasons given forth to all sober minded people, why I departed from the ministry of those called ministers of parishes; and why I departed from the ministry of those called Anabaptists; and why I have, and what I have contended for, some years past.</title>
+                  <author>West, Robert, b. ca. 1613.</author>
+               </titleStmt>
+               <extent>[2], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert West.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Criticism, interpretation, etc. --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Conversion --  Early works to 1800.</term>
+               <term>Quotations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33443:1" rendition="simple:additions"/>
+            <p>THE VOYCE OF <hi>Him that is eſcaped from</hi> BABYLON.</p>
+            <p>Reaſons given forth to all ſober minded people, why I departed from the Miniſtery of thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called Miniſters of Pariſhes; and why I departed from the Mini<g ref="char:EOLhyphen"/>ſtery of thoſe called Anabaptiſts; and why I have, and what I have contended for, ſome years paſt.</p>
+            <p>It's the duty of believers in Chriſt, to contend for the faith that once was delivered to the Saints; Although for it I have been perſecuted; and am hated: <hi>Woe is me, my Mother, that thou haſt born me a man of ſtrife, and a man of Contention to the whole Earth,</hi> Jer. 15. 10.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33443:2"/>
+            <pb facs="tcp:33443:2"/>
+            <head>
+               <hi>The Voyce of him that is eſcaped from</hi> Babylon.</head>
+            <head type="sub">Reaſons given forth to all ſober minded people, Why I departed from the Miniſtery of thoſe called Miniſters of Pariſhes; and why I departed from the Miniſtery of thoſe called Anabaptiſts: and why I have, and what I have contended for, ſome years paſt.</head>
+            <epigraph>
+               <q>
+                  <hi>It's the duty of Believers in Chriſt to contend for the faith that was once delivered to the Saints, although for it I have been perſecuted: and am hated:</hi> Woe is me, my Mother, that thou haſt born me a man of ſtrife, and a man of contention to the whole Earth, <bibl>
+                     <hi>Jer.</hi> 15. 10.</bibl>
+               </q>
+            </epigraph>
+            <p>VVHen I turned at the reproofs of God, then the word of God entred into me, and by it my underſtanding was enlightned; and un<g ref="char:EOLhyphen"/>derſtanding was given me, and then did I ſee that the Pariſh Miniſters ſo called, was Teachers of that, that they walked not in themſelves. When I preſſed them to it: to wit, to walk as examples to the people of what they preached; ſome of them told me, the things I ſaid ought to be done, and it was good if it was ſo: but it could not. Then being asked the Reaſon, one of them replyed; to wit, <hi>William Hughes</hi> of <hi>Marlebrough,</hi> who ſaid, he ſhould then wrong his wife and Children. Upon this I departed from them, being ſatisfied of them that they was ſayers and not doers; for I had proved others of them before: Then after my departure from them, with whom I walked in an Inde<g ref="char:EOLhyphen"/>pendant way, as they called it, I went and heard the Anabaptiſts ſo called, whoſe Converſations was more agreeable to what they ſaid, than thoſe called Pariſh Miniſters, but their doctrine was one in this particular; to wit, that Chriſt died, but for a Rem<g ref="char:EOLhyphen"/>nant whom they called the Elect: I being unſatisfied with that doctrine, by reaſon of a friend whom the Lord made uſeful to me; who propoſed this queſtion to me, Whether Chriſt dyed for all, if not, how can it be preached to all, that he dyed for them; and whether the preſſing of all to believe, be not the preſſing of men to believe a lye, if he dyed not for all, ſeeing all are preſſed upon <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>li<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dyed for them<g ref="char:punc">▪</g> After I had conſidered of it<g ref="char:punc">▪</g>
+               <pb facs="tcp:33443:3"/> this wrought in my underſtanding, that it was uncertain who Chriſt dyed for, if he dyed not for all, and, that it was a lye, to preach to the people, that he dyed for them; if he dyed not for them; and that for me to believe he dyed for me, if he dyed not for all, was uncertain: and ſo I was put upon the tryal of my faith. In the proving of which, I found that it was not according to the form of the Apoſtles doctrine; for that was, that he caſted death for every man, and that he dyed for all, and gave himſelf a Ranſome for all, to be teſtified in due time, God being no reſpe<g ref="char:EOLhyphen"/>cter of perſons, for when we was enemies, Chriſt dyed for the ungodly: the juſt for the unjuſt, as it is written, that he might re<g ref="char:EOLhyphen"/>deem us from all iniquity, (not that he did then) and that he might bring us to God. I being convinced of this form of doctrine, contended for it, with thoſe baptiz'd people with whom I accom<g ref="char:EOLhyphen"/>panied; and in love to them, and the truth obtained a diſpute be<g ref="char:EOLhyphen"/>tween them and one <hi>John Cooper,</hi> concerning that matter, but the things diſputed of, being ſtated unſound proved to be of little pro<g ref="char:EOLhyphen"/>fit; as for the matter or queſtion diſputed on, it was ſtated thus: Whether that Redemption by Chriſt was greater or larger, then ſalvation by Chriſt; now, this is not according to the former ſound words Stated, to wit, the Scriptures of the Prophets, for there is none ſaved by Chriſt's death, but thoſe that are redeemed from all unrighteouſneſſe, and there is none redeemed from unrigh<g ref="char:EOLhyphen"/>teouſneſſe, but by the blood which is the life; for the death of Chriſt ſingly conſidered, ſaveth not from death, but the life; as ſaith the Apoſtle, <hi>we are ſaved by his life,</hi> for the life is the Ran<g ref="char:EOLhyphen"/>ſome <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 5. 10.</note> that redeems to God: ſo then, Redemption and Salvation by Chriſt is equal: now, <hi>Christ giveth himſelf a Ranſome for all,</hi> as it <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 20. 28.</note> is written, for the free gift is unto all, and <hi>lighteth every man that cometh into the world,</hi> and <hi>this is to be teſtified in due time.</hi> Now, <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m.</hi> 2. 6.</note> when I ſaw that the baptized people would not be convinced of their errour, to wit, of perſonal Election and Reprobation before time: I departed from them, for I knew by light received, that God who worketh all things after the Counſel of his own will, hath ordained a way of life, and a way of death, before we was; but did not decree perſons to thoſe wayes, <hi>but ſet them before them, to chuſe life and good, death and evil;</hi> as it is written, <hi>Deut.</hi> 30. 15. and thus our ſalvation is of God, becauſe he hath ordained the way, but our deſtruction is of our ſelves, if we turn from it, or if <gap reason="illegible" resp="#KEYERS" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+               <pb facs="tcp:33443:3"/> called Baptiſts, I began to conſider, that I had contended for the forme of truth, but where was the power to be known, and what was it, that ſo my mind might be ſtayed upon it; for as yet, I knew not the Lord although he was within me, and had enlightned my underſtanding, by which I did know, and diſcern Doctrines; thus the Lord was within me, and I knew it not, then it did appear to me, according to Scripture, that, that was the Lord which did ſearch the heart, and make manifeſt ſin to me, and did reprove me for it; then I queſtioned what the everlaſting Goſpel was, and reaſoned with ſome what it ſhould be. Some ſaid one thing, and ſome another, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o that their ſayings ſatisfied me not what it was. It was ſo ordered by the Lord about two or three years, after I had ſeperated from the Baptiſts, that I went to their meeting; then they deſired to reaſon with me what the Goſpel was: to which I agreed willingly: now, it was referred for a fourteen dayes after, and then it was Reaſoned by them and I. There was about eight or ten of their Teachers, beſides many people, he who was their chief Reaſoner was one <hi>Blaſe Allen,</hi> who affirmed that the everlaſting Goſpel was Re<g ref="char:EOLhyphen"/>miſſion of ſin, by the blood of Jeſus Chriſt, and glory by him at his appearing: to all, that thus receive it, its the power of God unto ſalvation. I asked him whether he meant the viſible blood that was ſhed without the gates of <hi>Jeruſalem,</hi> he ſaid yea, I asked then of <hi>William Crabb,</hi> and <hi>Nicholas Ellyot,</hi> and other Teachers there preſent: whether they did own it, they ſaid yea, and gave me a Coppy of it in writing; and asked me whether I would deny it, if I did, I ſhould deny the whole, or elſe grant the whole of their affirmation. To that I replyed, It's written, thou ſhalt not ſow thy field with mingled ſeed, nor weare a Linſie Wolſie Garment. This is a mingled affirmation, ſaid I: ſome things may be owned, and ſome things muſt be denyed, then being admitted by them, I made my exceptions, to wit, that I did deny that to be the everlaſting Goſpel; namely, Remiſſi<g ref="char:EOLhyphen"/>on of ſins by the viſible blood, and that for theſe Reaſons. Firſt, that-blood had a beginning which was ſhed without the gates of <hi>Jeruſalem,</hi> but the everlaſting Goſpel had no beginning: again the Goſpel was preached to <hi>Abraham,</hi> and them that are dead, and Chriſt preached the Goſpel, before the viſible blood was ſhed; and remitted ſins, and there was none ſaved without
+<pb n="4" facs="tcp:33443:4"/> Remiſſion of ſins, and without ſhedding of blood there is no Remiſſion of ſins, therefore, Remiſſion of ſins by that blood was not the everlaſting Goſpel. Then they ſaid they would prove it, which they endeavoured about two or thee hours bringing theſe following Scriptures, <hi>Iſa.</hi> 52. 10. <hi>Rom.</hi> 10. 15. <hi>Act.</hi> 13. 32, 33, 38. <hi>Luke</hi> 2. 13. <hi>Act.</hi> 20. 28. 1 <hi>Pet.</hi> 1. 28. <hi>Col.</hi> 1. 20. <hi>Heb.</hi> 12. 24. <hi>Rev.</hi> 1. 5. <hi>Mat.</hi> 26. 28. <hi>Heb.</hi> 9. 14, 22. 1 <hi>Cor.</hi> 15. 1, 3. <hi>Act.</hi> 5. 3. And then ſaid, We have proved it. I deny<g ref="char:EOLhyphen"/>ed it. A friend to truth deſired thoſe Scriptures mentioned might be proved; which was not aſſented to, but the queſtion was put upon the people, becauſe of the remaining queſtions, whether to them they had proved it, becauſe they ſaid they had, and the people replyed, Nay; The other things agreed to be reaſoned then, was, what the Miniſters of the Goſpel was to direct the people to, to which was agreed on by both ſides, To Chriſt: the next queſtion was, Where he was; they ſaid, in heaven; then ſaid I, where is heaven. Then ſaid they, we have proved what was to be reaſoned or aſſerted: then ſaid I, the kingdome of heaven is within you, and Chriſt is in heaven, then ſaid they, prove it; I ſaid, Will you deny it? they then was ſilent. Then ſaid I, I ſhould not prove it, except they did deny it; many other wordspaſſed, with which I ſhall not trouble the Reader. For matter, this is the ſum of that preſent meeting. After this they ſaid, that I was fal<g ref="char:EOLhyphen"/>len from the faith, and that they were ſorry for me and others; I then examined what might be the meaning of this their ſay<g ref="char:EOLhyphen"/>ing, and I found in my underſtanding that they did mean, becauſe I do believe the firſt principle to be preached to men, is the light that ſhineth in darkneſſe, to wit, in their hearts, whereas they preached to men, the firſt principle to be believed is without men, and not within men: Now I confeſſe it had been a que<g ref="char:EOLhyphen"/>ſtion ſome time in my underſtanding whether Yea or Nay, I had not fallen; and I found that I had fallen, from making the ſayings of men, or the Letter of Scripture, the ground of my faith: now I had made a large profeſſion of God and Chriſt at a diſtance from me, but knew neither, my faith at that time was like that of the <hi>Samaritans,</hi> who believed becauſe of the ſaying of the Woman: but truly, as they ſayd, ſo ſay I: they ſaid, Now we believe, not becauſe of thy ſaying, for we have heard him our ſelves, and know that this is indeed the Chriſt the Saviour
+<pb n="5" facs="tcp:33443:4"/> of the World. For, friends, it is one thing, to believe the Scriptures, or Reports of men, but it's another thing to believe Chriſt: For example, <hi>Agrippa</hi> believed the Prophets, when he believed not in Chriſt, for he ſaith unto <hi>Paul, thou haſt almoſt</hi> 
+               <note place="margin">
+                  <hi>Act.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 28.</note> 
+               <hi>perſwaded me to be a Chriſtian.</hi> Now the promiſe is ſure to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eed, but not to Reports of men, for thus it is written, <hi>whoſoever believeth in him ſhall never be confounded or aſhamed,</hi> and in truth I am a witneſſe, As the mind is turned to the meaſure of him, <note place="margin">
+                  <hi>Rom.</hi> 10 11.</note> and on it ſtayed, there's vertue proceedeth from him, which purgeth the mind, and then giveth peace, and an underſtanding to know him which is life eternal; thus have I wandered from one City to another Country, and from the Teachings of men, and am taught of the Lord. Glory be to him for ever who ſheweth me Myſteries, and the times of Miniſtrations. Behold, I ſhew you ſome of them, Chriſt is hid in God and ſhall appear; the Gentiles are partakers of the divine nature, and ſo made fel<g ref="char:EOLhyphen"/>low-heirs with the Jews of the kingdome of heaven: God is in Chriſt, and Chriſt is in the Light, and the light is in the world now to be manifeſted for the obedience of faith to all Nations, the body of Saints ſhall be raiſed, and we then that are alive ſhall be changed, and aſcend in the ſight of her enemies, to meet the Lord when he ſhall be Revealed, in like manner as he did aſ<g ref="char:EOLhyphen"/>cend into heaven. The Saints both Jews and Gentiles ſhall come with him, and ſhall be ſeen by enemies in the kingdom of God, and the dominion under the whole heavens, ſhall be given unto the Saints of the moſt high, and they ſhall Rule, and Reign on Earth in the kingdom of Chriſt, and then the king<g ref="char:EOLhyphen"/>domes of this World ſhall become the kingdomes of our Lord and of his Chriſt; the time is at hand that theſe things ſhall be performed: although it may ſeem as an idle tale, unto many whoſe hearts are flow to believe all that the Prophets have ſpo<g ref="char:EOLhyphen"/>ken; and therefore perverts the Prophets words, yet ſhall they certainly come to paſſe. And now, friends, all beware of per<g ref="char:EOLhyphen"/>ſwaſions, that are contrary to the Scriptures of the Prophets, for the ſpirit of the Prophets are ſubject to the Prophets: hold faſt therefore the forme of ſound words, and learn to ſpeak ſuch words that cannot be condemned: for when words are ſpoken that are queſtionable, there's occaſion given of diſputing: and beware of putting one diſpenſation in the place of another, for
+<pb n="6" facs="tcp:33443:5"/> that is turning truth into a lye, beware alſo of Preaching diſ<g ref="char:EOLhyphen"/>penſations together without diſtinction, for then it will be an uncertain ſound, and an occaſion of diſputing; now the ſer<g ref="char:EOLhyphen"/>vants of God in former times gave the ſenſe of what they did read unto the people; and gave diſtinction in the ſound of their Miniſtery, and cauſed the people to underſtand it, and was meek toward them that did not underſtand, although they did op<g ref="char:EOLhyphen"/>poſe what was ſpoken. For example, Chriſt ſaid to his diſciples, <hi>Whither I go ye know, and the way ye know:</hi> Thomas <hi>ſaith, We know not the way,</hi> yet Chriſt did not ſay to him, I deny thy ſpirit, but <note place="margin">
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 14. 5.</note> reaſoned with him and his diſciples: Learn to do ſo alſo, be<g ref="char:EOLhyphen"/>ware what comes into thy bucket, leaſt thou pour that out which is not of God, although thou mayeſt ſay it is. Remem<g ref="char:EOLhyphen"/>ber that when <hi>Ioſhua</hi> the High Prieſt was ſtanding before the Lord, Sathan was ſtanding at his right hand, therefore watch and be ſober; and be more ready to hear, then to offer up the ſacrifice of fools, for they underſtandeth not what they ſpeaketh, and therefore will not give an account of it, when they are asked; leſt their folly ſhould be made manifeſt. And you that have been deceived by words when your faith ſtood in them, and now your faith ſtands in the power of God, keep your un<g ref="char:EOLhyphen"/>derſtanding exerciſed in it, that you may diſcern doctrines, and give attendance to reading, and beware of being puffed up for one, againſt another, I write not to ſhame any, but to warne all. It was a ſin in <hi>Iſrael</hi> to limit the Holy one, and it hath been the ſin of many Generations, even to this preſent time: there<g ref="char:EOLhyphen"/>fore as its written, <hi>Beware of men,</hi> prove all things, and the Lord <note place="margin">
+                  <hi>Mat.</hi> 10. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</note> give you underſtanding in them. Now that there may be no oc<g ref="char:EOLhyphen"/>caſion given amongſt the Lords people of diſputing concerning Manifeſtations, or Miniſtrations: know that the day of preach<g ref="char:EOLhyphen"/>ing or manifeſtation of the glorious light in the World, is not the day ſpoken of in <hi>Act.</hi> 17. 31. <hi>In which God will judge the World by the man whom he hath ordained:</hi> but it is, and was the day in which all are judged, who are obedient to it, according to men in the fleſh, that they might live according to God in the <note place="margin">
+                  <hi>Pet.</hi> 4. 6.</note> ſpirit: ſo then by the Goſpel are the Saints judged and purged, and the Prince of the World judged and caſt out, and for this cauſe was, and is it preached: Now when this is preached in all <note place="margin">
+                  <hi>Mat.</hi> 24.</note> the World (mark, in the World) <hi>for a witneſſe, the end of this</hi>
+               <pb n="7" facs="tcp:33443:5"/> 
+               <hi>World ſhall come:</hi> and take to his dominion under the whole heavens, and give it to the Saints of the Moſt high, then they ſhall rule, and all that did afflict them ſhall then come ben<g ref="char:EOLhyphen"/>ding to them, and then ſhall be fulfilled what is written, to wit, <hi>A King ſhall Reign in Righteouſneſſe, and Princes ſhall Rule in Judgment;</hi> In which day <note n="*" place="margin">
+                  <hi>Behold</hi> I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>rael <hi>after t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fleſh ſhall be gathred fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all Countrie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and place<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the Lan<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of</hi> Canaan, <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>it, thoſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> them that believed n<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Goſpel, and then ſhall the Saints ſit upon throne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and judge them and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> world. Rom.</hi> 8. 23<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> a multitude of promiſes ſhall be fulfilled: which is not, as yet fulfilled. Now under the Reign and Rule of Chriſt and his Saints ſhall Sathan be bound, that he may not deceive the Nations, and afterward he ſhall be looſed for a time, and then will he gather his numberleſs number, who will compaſſe about the beloved City; but fire from heaven ſhall conſume them, and then ſhall all the Children of the wicked be raiſed, and come to Judgment. Now this is the day ſpoken of in <hi>Acts</hi> 17. 31. <hi>In which he will judge the World according to the Goſpel:</hi> for under the day of grace, the Children of the wicked would not be judged by the Goſpel: therefore, he then by the Man Chriſt Jeſus, will Judge them according to the Goſpel: know alſo that when the Son of Righteouſneſſe or day-Starr is ri<g ref="char:EOLhyphen"/>ſen in the heart, our body is not riſen: for he that had the Son of God revealed in him, ſaith, Not that I have already at<g ref="char:EOLhyphen"/>tained unto the reſurrection of the dead, <hi>but he groaned in him<g ref="char:EOLhyphen"/>ſelf,</hi> to wit, <hi>for the redemption of our body;</hi> and they alſo that was tortured, not expecting deliverance looked for a better Reſurrection, <hi>but received not the promiſe, that they without us ſhould not be made perfect.</hi> Now it may be objected, Are not the <note place="margin">
+                  <hi>Heb.</hi> 11. 40.</note> Saints that are aſleep in Jeſus perfect? My anſwer is, Their ſpirits are perfect: but their body although ſanctified was weak, for they ſuffered in it, and it was ſown in weakneſſe Now there is a difference between weakneſſe and wickedneſſe; Chriſt was crucified through weakneſſe, but in him there was no wickedneſſe; a word to the wiſe is ſufficient. Again, know that the ſpirit in man is to be preacht to, and not the ſeed, for that came not to be miniſtred to, but to miniſter, and did preach unto the ſpirits that was diſ<g ref="char:EOLhyphen"/>obedient in the dayes of <hi>Noah:</hi> now the ſpirits of men was ſometime diſobedient, but the divine nature was never diſo<g ref="char:EOLhyphen"/>bedient; therefore mans ſpirit is not the ſeed, but a recepta<g ref="char:EOLhyphen"/>ble ſubject or Candle, formed in man, by which he might
+<pb n="8" facs="tcp:33443:6"/> receive the divine nature, for the fleſh and blood cannot re<g ref="char:EOLhyphen"/>ceive it. Again know that the Revelation of Jeſus Chriſt in us, is not the ſecond appearance of Chriſt ſpoken of in Scripture: for he who had the Son of God revealed in him, ſaith, We waite for the Lord from heaven, and to them that look for him, the ſecond time ſhall he appear without ſin unto ſalvation. Now, there are differences of Miniſtrations, but the ſame Lord.</p>
+            <p>And now a few words to the people of the Land of my nativi<g ref="char:EOLhyphen"/>ty after the fleſh. I beſeech you teachers and hearers examine your ſelves (for the day of the Lord is at hand) whether you know what you teach, and what you worſhip: I put this queſti<g ref="char:EOLhyphen"/>on unto you. Suppoſe thoſe who do worſhip ſtocks and ſtones, or the Hoſt of Heaven, ſhould ask you What God you do worſhip, what would you ſay unto them, that they might be certain and know your God. Now they will expect, either the ſight of him, to wit, of your God; or the ſenſe of him that they may feel him; or elſe what ſhall they believe, as the object of their faith, if you cannot manifeſt him unto them, that they may ſee him, or feel him. Do you think that they will leave a certain for an uncertain, for a parcel of words? What they do worſhip, if you ſhould ask them, they can ſhew you: but I fear many of you worſhip you know not what. For I asked one of your Teachers, to wit, <hi>William Spinnage,</hi> called Mini<g ref="char:EOLhyphen"/>ſter of <hi>Poulſhott,</hi> whether he knew the Lord, and he ſaid unto me that to know the Lord, was to be the Lord: Woe is me, O people for you, your Teachers are leight and treacherous, and preach to you that they know not, words that do not profit, and you are ever learning, but comes not to the knowledge of the truth, which would make you free, but loves to live in your ſins: what will you do in the end thereof? for the Lord will ap<g ref="char:EOLhyphen"/>pear <hi>in flames of fire, rendring vengeance upon all that know</hi> 
+               <note place="margin">2 <hi>Theſ.</hi> 1. 8.</note> 
+               <hi>him him not, and that obey not the Goſpel of our Lord Jeſus Chriſt:</hi> who ſhall be puniſhed with everlaſting deſtruction, from the preſence of the Lord, and from the glory of his pow<g ref="char:EOLhyphen"/>er. Mind this you that know not the Lord, theſe words are not ſpoken in vain. Now, if you would ask me, what God I do <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or<g ref="char:EOLhyphen"/>ſhip, my anſwer is, A meaſure of the ſame light which ſhines unto you, which is one in the male, and in the female: and
+<pb n="9" facs="tcp:33443:6"/> thus we, as its written, <hi>know whom we worſhip,</hi> and declare <note place="margin">
+                  <hi>John</hi> 4. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> him unto you, that you may know him, for he is not far from every one of us: now that which may be known of him in the particular, is manifeſt within them. For to every one is the manifeſtation of the ſpirit given to profit withall: and that is the ſpirit of the Lord, <hi>that convinceth you of ſin.</hi> I have writ<g ref="char:EOLhyphen"/>ten <note place="margin">
+                  <hi>John</hi> 16. 8<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> this, becauſe I have reaſoned with many, that have gran<g ref="char:EOLhyphen"/>ted, that they ought to be lead by the ſpirit of God. But, ſaid they to me, there be many falſe ſpirits, and how ſhall we know the ſpirit of God, from the ſpirit of Errour. Now as I have ſaid to them; ſo I ſay to all, That which makes manifeſt ſin unto man, and reproves him for it, that is the ſpirit of God, therefore obey and follow it, for the devils knoweth the voyce of Chriſt, but followeth him not: be you not like them, for the Lords ſpirit will not alwayes ſtrive with man: awake to righte<g ref="char:EOLhyphen"/>ouſneſſe and ſin not, and diſhonour no longer the profeſſion of a Chriſtian, in ſaying you cannot in this world be free from ſinning; when in very deed you will not come to Chriſt, it's written, <hi>he is able to ſave to the uttermoſt all them that come</hi> 
+               <note place="margin">
+                  <hi>Heb.</hi> 7. 25.</note> 
+               <hi>unto God by him,</hi> will you give the Scripture the lye, and diſhonour the Lord: O you fooliſh and unwiſe, how long will you hate knowledge, and delight in folly. Now to con<g ref="char:EOLhyphen"/>clude, let not the unclean ſpirits within you deceive you, in perſwading any that I have written, or given this forth, becauſe I would be advanced, or becauſe I hate any. I tell you nay, it is becauſe I fear the Lord who would reprove me, <hi>if I ſhould</hi> 
+               <note place="margin">
+                  <hi>Levit.</hi> 19. 17. <hi>Pſal.</hi> 50. 18.</note> 
+               <hi>ſuffer ſin upon my brother, and not reprove him; or, if ſeeing a thief I conſent to him.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Here followeth in love a general Epiſtle to all Saints who are the Remnant of <hi>Jacob,</hi> in the midſt of many people, as a dew from the Lord, and as ſhowers upon graſſe.</head>
+                  <p>Elect, according to the foreknowledge of God, through obedience to the truth, and ſanctification of the ſpirit, Grace mercy and peace be multiplyed amongſt you, from God our Father, and from our Lord Jeſus Chriſt: Brethren, know certainly, that although we be weak in Chriſt, as he was in the
+<pb n="10" facs="tcp:33443:7"/> dayes of his fleſh in the Father, yet our life is hid with Chriſt in God: and when Chriſt who is our life ſhall appear, then ſhall we appear with him in glory: now we are the Sons of God, but we know not what we ſhall be; but this we know, we ſhall be like him, for we ſhall ſee him as he is, and every one that hath this hope in him, purifieth himſelf even as he is pure: and know it is not onely given to us to believe on his name the light, but alſo to ſuffer for it, that your faith might be more pure then Gold that's tryed in the fire; for it's no ſtrange thing to ſuffer for the Lord, for it hath accompanied our brethren which was in the World before us: and our ſuffe<g ref="char:EOLhyphen"/>ring for the Lord is an evident token we are of God; and to them under whom and by whom we ſuffer, it is a token evident that they are not of God. And now brethren the day of our Redemption draweth nigh; be faithful to the death, and val<g ref="char:EOLhyphen"/>liant for the truth upon Earth, in this day of <hi>Zions</hi> controver<g ref="char:EOLhyphen"/>ſie againſt <hi>Babylon,</hi> for the Lord is with us, and the ſhout of a King is amongſt us, and goeth before us, to make War in Righteouſeſſe, and to threſh the Nations, and to ſtain the glory of all fleſh, and to bring in contempt all the honourable of the Earth, that ſo the great Whore which hath corrupted the Earth may be conſumed; and it's in order to the remaining<g ref="char:EOLhyphen"/>diſpenſations which is to come, to wit, the filling of the Earth with the knowledge of the Lord, as the waters do cover the Sea, that ſo the unclean ſpirits may paſſe no more through the Land, but be bound; for ſo they ſhall be for a thouſand years: for the Nations ſhall not be deceived under the Rule and Reign of Chriſt, who ſhall Reign in Righteouſneſſe, and Rule in Judgment, after the Redemption of the body of our brethren the ſervants of God; who are yet aſleep in Jeſus, at which time we ſhall be changed; to wit, the body, and ſo as i'ts written, <hi>they without us ſhould not be made perfect,</hi> for as by one offering all that are ſanctified are made perfect for ever; even ſo at one ſeaſon, in a moment, in the Twinckling of an eye ſhall they be raiſed, and we changed, and meet the Lord our Root, the off<g ref="char:EOLhyphen"/>ſpring of <hi>David,</hi> the bright and morning Starre, who is one with that within us, and not another Lord, but another ma<g ref="char:EOLhyphen"/>nifeſtation of the ſame Lord; for there are differences of Mini<g ref="char:EOLhyphen"/>ſtrations, but the ſame Lord, yeſterday, to day, and for ever,
+<pb n="11" facs="tcp:33443:7"/> and now brethren I commend you to God, and to the word of his grace in which we ſtand, which is able to build us up, and to give us an inheritance amongſt all them that are ſancti<g ref="char:EOLhyphen"/>fied by faith in him: Farewell,</p>
+                  <div type="part">
+                     <head>A warning from <hi>Zion</hi> to the Inhabitants of the Earth, and to the Virgins that ſleeps and ſlumbers.</head>
+                     <p>Awake from ſleep ye ſlumbring men, for night on you long time hath bin: the mid-night cry is a near at hand, and Chriſt ſhall Reign over all Lands; in Righteouſneſſe for to ſet free <hi>Zion</hi> from her Captivity; Awake from ſleep and ſlumber then, you Virgins all in number ten; your Lamps prepare with Oyl to trimme, that you with him may enter in; he is the Sabbath of the Lord, where we do reſt with one accord, and longs for you for to come in, that you with us may to him ſing; <hi>Hal<g ref="char:EOLhyphen"/>leluja</hi> to him is our ſong, for unto him it doth belong; who have raiſed us from death's State, to Reign with him that did us make. And now farewell to worldly joy, which formerly did us annoy; and Captivate us: time hath bin, when we rejoyc'd and liv'd in ſin; then death did Reign, which now is fled, be<g ref="char:EOLhyphen"/>fore him which is now our head; the Lord of glory is his name, its on our hearts to ſpread his fame: that darkneſs may flye quite away; that light over all may bear the ſway; for darkneſſe it his time hath had, and <hi>Babylon</hi> hath made men mad; the Pro<g ref="char:EOLhyphen"/>phet falſe, and Beaſt alſo, ſhall now alive into lake go: for Chriſt muſt Reign, then all give place; for evil ſhall flye from his face: Why will you dye, O Sons of men, or where's the place to purge from ſin; or where's the thing that will you ſave, from ſin when you are laid in grave: as you do dye ſo ſhall you riſe, the dead in ſin cannot him praiſe; a woeful day for you 'twill be, who from your ſins are not ſet free; O take my counſel I you pray, and turn to the light the true way; which in you is as he hath bin, the thing that doth reprove for ſin; but if you will not turned bee, yet of your blood now am I free; who am a witneſſe for truths ſake, that he would ſave you from the lake; but force you he will not for why, to him that way is Tyranny; his ways are equal and in love, to all; for he doth
+<pb n="12" facs="tcp:33443:8"/> all reprove: that is his witneſſe, and 'twill ſtand, for it is greater then that of <hi>John;</hi> the works he doth is a ſigne, he would you ſave, he is ſo kind. And thus of you my leave I take, who have written this for your ſake; with this my prayer for you all; who yet are living in the Fall,</p>
+                     <p>O Father dear, in Chriſt appear, to them that ſin annoyes; That they with me, may be ſet free, to praiſe thy name with joyes.</p>
+                  </div>
+                  <byline>Written by <hi>R. W.</hi> and ſent from the <hi>Devizes,</hi> in love for the uſe of all.</byline>
+               </body>
+            </floatingText>
+            <p>Since the writing of this before mentioned, I was preſſed in ſpirit to write this following; that men might learn and know that <hi>Zion</hi> and her Converts are two for matter, before they are married, and when they are married or given unto the Lord, they are one in you, with him but not in time of being, for they was made and begotten in time.</p>
+            <p>Here followeth the Teſtimony of him that is come unto Mount <hi>Zion,</hi> ſhewing what it is ſingly conſidered, before God did light it, or man is joyned to it: written for the uſe of all thoſe that asketh the way to <hi>Zion,</hi> with their faces thitherward.</p>
+            <p>Mount <hi>Zion,</hi> or the heavenly <hi>Jeruſalem,</hi> for matter is ſpi<g ref="char:EOLhyphen"/>rit but not the ſpirit of God or Chriſt: <hi>for</hi> Zion <hi>or</hi> Jeruſalem <note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>a.</hi> 14. 32. <hi>Heb.</hi> 11. 10.</note> 
+               <hi>is founded or made, and the maker of it is God:</hi> Now that which is founded or made had a beginning, therefore not made of God, but by God; for if it had been made of God, or of the divine nature Chriſt, then no part of it could have been defi<g ref="char:EOLhyphen"/>led: Now the ſpirit that is found in mankind is part of it, to wit <hi>Zion,</hi> as the body of mankind is part of the Earth; ſo that the ſpirit in man by mankind is not begotten but gave, and found in man by God: as it is written, <hi>yet had he the reſidue</hi> 
+               <note place="margin">
+                  <hi>Mal.</hi> 2. 15. <hi>Eccleſ.</hi> 12.</note> 
+               <hi>of the ſpirit,</hi> as ſaith <hi>Malachi,</hi> Now the ſpirit of man may be defiled, but the divine ſpirit cannot; therefore, ſaith the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>the wicked toucheth him not.</hi> So then, <hi>Jeruſalem</hi> that is above which is free, is the mother of mens ſpirits: and the <note place="margin">
+                  <hi>Zech.</hi> 12. 1.</note>
+               <pb n="13" facs="tcp:33443:8"/> ſpirit in mankind that giveth life to his body, is the daughter <note place="margin">
+                  <hi>Pſal.</hi> 85. 5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> of <hi>Zion,</hi> which is one for matter, before defiled, or when its purged and brought again into a Virgin ſtate; therefore, every one that is begotten by the word of God, and born again, is begotten in, and born of the ſpirit, and ſo, as it's written, <hi>of</hi> Zion, <hi>its true,</hi> to wit, <hi>that this, and that man, was born in her,</hi> 
+               <note n="†" place="margin">Mark that which is bor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in <hi>Zion,</hi> is tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which was born, and tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was man: fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the divine na<g ref="char:EOLhyphen"/>ture was not begotten a<g ref="char:EOLhyphen"/>gain; but ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was begot an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> born again, and that in <hi>Zion.</hi> Again if it ſhould be man<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſpirits, thats begotten a<g ref="char:EOLhyphen"/>gain, and gi<g ref="char:EOLhyphen"/>ven unto the Lord, then <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would be ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thats given unto the Lord but now its h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that is give<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> unto the Lord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Iſa.</hi> 33. 14<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Num.</hi> 5. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 12, 14.</note> for he is born in a meaſure of the ſame: now a meaſure of the ſame in a particular, is called by the name of the ſame without him; which cannot be comprehended by a particu<g ref="char:EOLhyphen"/>lar man. For example, the meaſure of Chriſt in man, is cal<g ref="char:EOLhyphen"/>led Chriſt: now all the Sons of men cannot contain him, for he is the expreſſe Image of his Fathers perſon, incompre<g ref="char:EOLhyphen"/>henſible above all, and through all, the life of the ſpirit in us, that gives life to our body: now before any man can be born again, his mind muſt be purged, which will not be, ex<g ref="char:EOLhyphen"/>cept it be turned to the light in him, and he abide its purg<g ref="char:EOLhyphen"/>ing; which is done by Judgment and burning, <hi>therefore the Hypocrite will not keep his mind to the light, becauſe it is a fire, but cryeth out when his minde is in</hi> Zion, to wit, his ſpirit, Who among us ſhall dwell with everlaſting burnings, and ſo flyeth the Judgment of the Goſpel, by which the Saints are Judg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and purged. Now untill the minde and conſcience and ſpi<g ref="char:EOLhyphen"/>rit of a man be purged, it cannot enter into its Mother <hi>Zion,</hi> but is ſhut out without the City: <hi>Miriam</hi> when Leprous and the Lepers of <hi>Iſrael</hi> is its figures. Now that which ſeparates between the clean and the unclean, is the Lord, who is a fire round about <hi>Zion</hi> or <hi>Jeruſalem,</hi> which is free from ſin.</p>
+            <div type="song">
+               <head>A ſong of <hi>Zion,</hi> gave forth by a ſon of <hi>Zion,</hi> that men might know the gates of <hi>Zion;</hi> which the Lord loveth more then all the dwellings of <hi>Jacob.</hi>
+               </head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>
+                     <hi>The glory of the Lord is come, on</hi> Zion <hi>it doth ſhine,</hi>
+                  </l>
+                  <l>
+                     <hi>The brightneſſe of it doth ſurmount, the Sun; for it's divine.</hi>
+                  </l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>
+                     <hi>Which makes my mother for to be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> moſt glorious in his ſight,</hi>
+                  </l>
+                  <l>
+                     <hi>And all her Children holy ones; which is the Lords delight.</hi>
+                  </l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>
+                     <hi>Upon her head there is a Crown, that will not fade nor ſwerve,</hi>
+                  </l>
+                  <l>
+                     <hi>Moſt glorious for to behold, for it is of Twelve Starrs.</hi>
+                  </l>
+               </lg>
+               <lg n="4">
+                  <pb n="14" facs="tcp:33443:9"/>
+                  <head>4</head>
+                  <l>
+                     <hi>And underneath her feet there is, a moon ſometime doth ſhine,</hi>
+                  </l>
+                  <l>
+                     <hi>Which into blood turned ſhall be: for it was not divine.</hi>
+                  </l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>
+                     <hi>But in</hi> Zion <hi>the Lord will dwell, for he hath choſen ſhe:</hi>
+                  </l>
+                  <l>
+                     <hi>A wall of fire round about, to her the Lord will be.</hi>
+                  </l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>
+                     <hi>If that her new name you will know, and of her children dear;</hi>
+                  </l>
+                  <l>
+                     <hi>When ſhe on earth is manifest, 'twill be, The Lord is there.</hi>
+                  </l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>
+                     <hi>Within this City ſafety is, from ſorrow death and pain;</hi>
+                  </l>
+                  <l>
+                     <hi>On it the heat of Sun lights not, nor on it cometh rain.</hi>
+                  </l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>
+                     <hi>Though it no Ravenous beaſt doth paſſe, as Lyon, Wolfe, and Bear;</hi>
+                  </l>
+                  <l>
+                     <hi>So that in her all ſafe they are, there is no cauſe of fear.</hi>
+                  </l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>
+                     <hi>Her waters clear as Cryſtal glaſſe, moſt lovely to behold,</hi>
+                  </l>
+                  <l>
+                     <hi>Her ſtreet is rich and glorious; for it is of fine Gold.</hi>
+                  </l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>
+                     <hi>No Ship in her doth paſſe with ſayle, nor gallion with ores,</hi>
+                  </l>
+                  <l>
+                     <hi>The Merchants of great</hi> Babylon, <hi>cometh not near her ſhores.</hi>
+                  </l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>
+                     <hi>A tree of life within her is, most lovely is his root,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe leaves are green continually: bearing twelve manner fruit.</hi>
+                  </l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>
+                     <hi>For healing of the Nations, are the leaves of this tree,</hi>
+                  </l>
+                  <l>
+                     <hi>To give knowledge of ſalvation; to all he is ſo free.</hi>
+                  </l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>
+                     <hi>Moſt glorious things are ſpoken of, the City of our God,</hi>
+                  </l>
+                  <l>
+                     <hi>But how may man now enter in, to ſetle his abode?</hi>
+                  </l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>
+                     <hi>There is no way but by the gates, the wall is very high;</hi>
+                  </l>
+                  <l>
+                     <hi>Your minds to him turned must be, or elſe without must lye.</hi>
+                  </l>
+               </lg>
+               <lg n="15">
+                  <head>15</head>
+                  <l>
+                     <hi>Where's he that I to him may come, and</hi> Zions <hi>gates to know,</hi>
+                  </l>
+                  <l>
+                     <hi>He is within manifeſting, to thee thy ſins he ſhews.</hi>
+                  </l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>
+                     <hi>Your ſpirits it is</hi> Zions <hi>gates, where knocked long hath him,</hi>
+                  </l>
+                  <l>
+                     <hi>O lift it up and He to you, will ſuddenly come in.</hi>
+                  </l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>
+                     <hi>Then in your ſpirits will He be, to you a hope again,</hi>
+                  </l>
+                  <l>
+                     <hi>And then with he you ſhall he free, in</hi> Zion <hi>to remain.</hi>
+                  </l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>
+                     <hi>For he will open unto you, the gate of righteouſneſſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Through which the righteous Nation, have entred into reſt.</hi>
+                  </l>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <l>
+                     <hi>And thus in love I have you ſhewn, the way to</hi> Zion's <hi>hill,</hi>
+                  </l>
+                  <l>
+                     <hi>The City of ſolemnity; where the Lord God doth dwell.</hi>
+                  </l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>
+                     <hi>That ſo without you may not be, amongſt thoſe unclean beaſts,</hi>
+                  </l>
+                  <l>
+                     <hi>And where the wine preſſe trod ſhall be, ſo there will be no rest.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="testimony">
+               <pb n="15" facs="tcp:33443:9"/>
+               <head>Concerning the Mount of <hi>Olives,</hi> which ſtands before <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> which ſhall cleave in the midst, and be removed: this Teſti<g ref="char:EOLhyphen"/>mony I gives of it.</head>
+               <p>
+                  <hi>The mount before</hi> Jeruſalem <hi>ſpoken of by</hi> Zechariah, is a Mi<g ref="char:EOLhyphen"/>ſtery of iniquity not created by God, but gendred by mens <note place="margin">
+                     <hi>Zech.</hi> 14. 4.</note> joyning unto the Serpent: which mount ſtands before their ſpirits, as the mount <hi>Olives</hi> did before <hi>Jeruſalem</hi> on the Eaſt thereof; whereon ſtands their idol gods which they have ſet up in their hearts. Now mount <hi>Olivet</hi> is alluded to, by the Prophet, becauſe upon mount <hi>Olivet</hi> ſtood the idol gods of <hi>Solomons</hi> ſtrange wives; <hi>and therefore it was called the mount of Corruption,</hi> 
+                  <note n="†" place="margin">Mount <hi>Olivet</hi> mentioned, or mount of Corruption, is one in Ranke with <hi>Hagar</hi> and mount <hi>Sinai,</hi> and the mount before <hi>Jerub<g ref="char:EOLhyphen"/>babel;</hi> which is a myſtery of iniquity, in which Satan moveth, which ſhall become a Plain, be removed, and conſumed. <hi>Deut.</hi> 23. 3. 1 <hi>Sam.</hi> 15. 3.</note> as you may read 2 <hi>Kings</hi> 23. 13. but in the margin its rendered, the mount <hi>Olivet.</hi> Now when the feet of the Lord which is power ſhall ſtand upon it, it, will cleave in midſt, in which day the light ſhall not be clear nor dark. So it is with every one untill they can diſcern between their ſpi<g ref="char:EOLhyphen"/>rit and the divine nature: and then the mountain that ſtands before <hi>Jerubbabel,</hi> to wit, the myſtery of iniquity in mankind, ſhall become a plain, and be removed and conſumed, by the ſpirit of the Lord, and the brightneſſe of his coming, in all his; and then, as it is written, <hi>the Lord my God ſhall come, and all his Saints with thee,</hi> and Reign in mount <hi>Zion</hi> and in <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> and before his antients gloriouſly: but mount <hi>Sinai</hi> or <hi>Hagar</hi> ſhall be caſt out with her Children, <hi>and ſhall not en<g ref="char:EOLhyphen"/>ter into the Congregation of the Lord, in ten generations for ever: but ſhall be utterly destroyed from under heaven. Amaleck</hi> is its figure.</p>
+               <p>Now for this cauſe, is, and was the Goſpel preached, to wit, for the conſummation of iniquity, and by it, ſhall it be deſtroy<g ref="char:EOLhyphen"/>ed. If thou ask me, what the everlaſting Goſpel is, I anſwer, the glorious light in the World, it hath been preached under differing names or ſounds, which I ſhall if God permit, in my next book, informe the Reader with.</p>
+            </div>
+            <div type="song">
+               <pb n="16" facs="tcp:33443:10"/>
+               <head>
+                  <hi>A ſong of my beloved, to my beloved, which is within the Vaile; ſong by her that was barren, in the Ile of the ſea,</hi> Iſa. 24. 15.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>My Mother is a Queen moſt bright, and I her daughter dear,</l>
+                  <l>Beloved of the Lord of life; who of me taketh care.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>A wall unto my Mother is, the Lord who keeps from ſin:</l>
+                  <l>So that in freedom ſhe's preſerv'd, though Captive I have been.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>And then I was in priſon ſtrong, where I defil'd have been,</l>
+                  <l>But now I am purged again, and am made a Virgin.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Come my beloved unto me, for welcome thou ſhalt be,</l>
+                  <l>For thou haſt done for me great things, and by thee I am free;</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>From death and ſin by thee my Love, and now am thine by right,</l>
+                  <l>For thou haſt bought me with a price, and me redeem'd with light.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>I have Redeem'd thee; let me go, and I will come again:</l>
+                  <l>For comely now thou art to me; and Ile with thee remain.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>I will not let thee go my love, come now thou into me,</l>
+                  <l>That ſo a Child now I may have, an Heir that is free.</l>
+               </lg>
+               <lg n="8">
+                  <head>8</head>
+                  <l>A Virgin I am made by thee, known unto thee in light,</l>
+                  <l>O that I had a Son by thee: who art in glory bright.</l>
+               </lg>
+               <lg n="9">
+                  <head>9</head>
+                  <l>I will return to thee my dove, and thou ſhalt have a Son,</l>
+                  <l>According to the time of life, what's ſayd it ſhalt be done.</l>
+               </lg>
+               <lg n="10">
+                  <head>10</head>
+                  <l>Shall ſhe that barren was now bear? Yea, thou ſhalt bear by me</l>
+                  <l>A Child an Heir which is free, in which thouſands ſhall be.</l>
+               </lg>
+               <lg n="11">
+                  <head>11</head>
+                  <l>Behold a Virgin is with child, <hi>Emanuel</hi> is his Name,</l>
+                  <l>A King of <hi>Zion</hi> is this Child: Now I will ſpread his fame.</l>
+               </lg>
+               <lg n="12">
+                  <head>12</head>
+                  <l>And I will ſing unto my King, which wonders great hath wrought.</l>
+                  <l>For he to me have done great things, a Child for me he got.</l>
+               </lg>
+               <lg n="13">
+                  <head>13</head>
+                  <l>I barren was and did not bear, in priſon was I ſtrong,</l>
+                  <l>By the Children of <hi>Babylon:</hi> they have oppreſt me long.</l>
+               </lg>
+               <lg n="14">
+                  <head>14</head>
+                  <l>Rejoyce now thou that barren was, and praiſes to him ſing:</l>
+                  <l>For he to thee and thy Children, will great deliverance bring.</l>
+               </lg>
+               <lg n="15">
+                  <pb n="17" facs="tcp:33443:10"/>
+                  <head>15</head>
+                  <l>Lift up your heads you holy ones, Redemption draweth near;</l>
+                  <l>Your life which hid in God hath been, will ſuddenly appear.</l>
+               </lg>
+               <lg n="16">
+                  <head>16</head>
+                  <l>For now a Nation ſhall appear, which have been much in ſcorn,</l>
+                  <l>O who have heard of ſuch a thing, in one day to be born?</l>
+               </lg>
+               <lg n="17">
+                  <head>17</head>
+                  <l>No ſooner <hi>Zion</hi> travelled, which hath been long in pain,</l>
+                  <l>But all her Children ſhe brings forth, with her King for to Reign.</l>
+               </lg>
+               <lg n="18">
+                  <head>18</head>
+                  <l>A goodly ſight is it to ſee, the King with all his Taryn,</l>
+                  <l>For they in white all cloath'd ſhall be, and ſhall on the Earth Reign.</l>
+               </lg>
+               <lg n="19">
+                  <head>19</head>
+                  <l>Both <hi>Zion</hi> and her Children dear, for maried they ſhall be,</l>
+                  <l>And then <hi>Zion</hi> unto her Sons, a City may you ſee.</l>
+               </lg>
+               <lg n="20">
+                  <head>20</head>
+                  <l>A Heaven new and Earth alſo, the Lord will have remain,</l>
+                  <l>For he to it married will be, and he in it will Reign.</l>
+               </lg>
+               <lg n="21">
+                  <head>21</head>
+                  <l>Why ſhould it ſeem incredible, Prophets have it foretold:</l>
+                  <l>And in the faith of it have dyed, the Holy men of old.</l>
+               </lg>
+               <p>
+                  <hi>Nevertheleſſe when the ſon of man cometh ſhall he find</hi> 
+                  <note place="margin">
+                     <hi>Luke</hi> 18. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>faith on Earth?</hi> But he that's fallen from the faith of Gods Elect, may ſay this following Inſcription; <hi>Within this Temple</hi> 
+                  <note place="margin">1 <hi>Cor.</hi> 6. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Rev.</hi> 12. 17 <hi>Prov.</hi> 5. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Mala.</hi> 2. 14</note> 
+                  <hi>lyeth a woman bereaved of her life, my mother, companion of the Covenant, the wife.</hi> Beware of the errour mentioned in, 2 <hi>Tim.</hi> 2. 18.</p>
+               <p>Written the 22 of the 8 month 1658. in love to all. <hi>For the foundations of the Earth ſhall be ſhoken and their Cedar works uncovered, and their Gods famiſhed:</hi> Zeph. 2. <hi>And men ſhall worſhip the living God, who is to be prayſed for ever and ever,</hi> Amen.</p>
+               <p>Reader, the wayes of the Lord which is inviſible, have been figured forth by viſiable diſpenſations under differing admini<g ref="char:EOLhyphen"/>ſtrations: <hi>but now the time is neere, that the Sons of God ſhall ap<g ref="char:EOLhyphen"/>pear,</hi> 
+                  <note place="margin">
+                     <hi>Rom.</hi> 8. 19<g ref="char:punc">▪</g> 
+                     <hi>Mat.</hi> 13. 43. <hi>Luk.</hi> 13. 28<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> 
+                  <hi>in a viſible manifeſtation, to be ſeen by their enemies in the Kingdome of their Father.</hi>
+               </p>
+               <p>This following Queſtion I do propoſe in love, to them whom it concerns, to conſider of it.</p>
+               <pb n="18" facs="tcp:33443:11"/>
+               <p>Q. What is that, that the miniſtery of the Goſpel quickens<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the ſeed of God in man, or the ſpirit of man, or man in the ſpirit of his minde? I do in this way proceed for truths ſake, becauſe I have been denyed to be reaſoned with, con<g ref="char:EOLhyphen"/>cerning things delivered that's queſtionable.</p>
+               <p>Again, beware of accuſing the Apoſtle <hi>Paul</hi> falſely, you who in your printing and preaching ſaith, that he, to wit <hi>Paul,</hi> deſired to know nothing among the <hi>Corinthians,</hi> ſave Jeſus Chriſt, and him crucified: now he ſaith no ſuch thing, but he then knowing that all that live in pleaſure and wanton up<g ref="char:EOLhyphen"/>on earth, kills the juſt; therefore ſaith, I, brethren, when I came unto you, determined not to know any thing among you, ſave Jeſus Chriſt and him crucified; for he determined before he came unto them, that they crucified unto them<g ref="char:EOLhyphen"/>ſelves the Son of God.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
